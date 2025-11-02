@@ -21,7 +21,8 @@ Results demonstrate that **Simulated Annealing** achieves the best scalability a
 
 ## 📄 Report
 Full academic report:  
-[`Abdullah_Berkay_KURKCU_Pattern_Recognition_Report.pdf`](report/Abdullah_Berkay_KURKCU_Pattern_Recognition_Report.pdf)
+[📄 Download / View Report (PDF)](https://github.com/Berkay-2/nqueens-algorithm-comparison/raw/main/report/Abdullah_Berkay_KURKCU_Pattern_Recognition_Report.pdf)
+
 
 ## 👨🏻‍💻 Author
 **Abdullah Berkay Kürkçü**  
