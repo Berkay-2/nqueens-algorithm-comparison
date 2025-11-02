@@ -30,6 +30,6 @@ Full academic report:
 **Abdullah Berkay Kürkçü**  
 MSc Software Engineering – Pattern Recognition  
 University of Europe for Applied Sciences, Berlin  
-📧 berkay.kurkcu@ue-germany.de  
+📧 abdullah.kurkcu@ue-germany.de  
 🔗 [LinkedIn](https://www.linkedin.com/in/berkaykurkcu/)  
 🔗 [GitHub](https://github.com/Berkay-2)
